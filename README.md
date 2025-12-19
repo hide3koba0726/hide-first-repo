@@ -1,0 +1,2 @@
+# hide-first-repo
+hideのGitHubリポジトリです
